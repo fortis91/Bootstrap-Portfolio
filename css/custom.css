@@ -1,0 +1,53 @@
+body {
+  padding-top: 56px;
+  background-image: url('../assets/images/cork_1.png');
+}
+
+section {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+
+  padding: 20px;
+}
+
+.lnr {
+  display: inline-block;
+  fill: currentColor;
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.05em;
+  stroke-width: 1;
+}
+
+.services-icon {
+  margin-bottom: 20px;
+  font-size: 30px;
+}
+
+.quote-icon {
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+
+
+footer {
+    position: fixed;
+    height: 50px;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+
+    background-color:teal;
+}
+footer {
+    /* background-color: blue; */
+    background-color: #2B2D42;
+    text-align: center;
+    height: 40px;
+    padding-top: 15px;
+    font-size: 12px;
+    
+    /* border-top: 4px solid darkgreen; */
+    border-top: 5px solid #8D99AE;
+}
