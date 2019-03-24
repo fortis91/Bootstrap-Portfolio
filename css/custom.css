@@ -1,5 +1,5 @@
 body {
-  padding-top: 56px;
+  padding-top: 50px;
   background-image: url('../assets/images/cork_1.png');
 }
 
@@ -9,12 +9,15 @@ section {
 
   padding: 20px;
   margin: 50px;
-
 }
 
 .navbar-light .navbar-nav .nav-link {
-    color: rgba(0,0,0,.5);
+    /* color: rgba(0,0,0,.5); */
     color: #EF233C;
+}
+
+.col-md-4 {
+  padding-left: 0px;
 }
 
 footer {
