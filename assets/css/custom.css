@@ -3,6 +3,7 @@ body {
   background-image: url('../images/cork_1.png');
 
   /* font-family: 'Roboto', sans-serif; */
+    background-color: #8D99AE;
 
 }
 
@@ -46,7 +47,7 @@ footer {
 
 .card-body {
   text-align: center;
-  color: red;
+  color: #8D99AE;
 }
 
 h1 {
